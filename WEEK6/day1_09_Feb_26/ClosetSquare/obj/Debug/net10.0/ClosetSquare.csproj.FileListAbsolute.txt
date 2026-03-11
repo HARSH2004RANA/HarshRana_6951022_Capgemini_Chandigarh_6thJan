@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\bin\Debug\net10.0\ClosetSquare.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\bin\Debug\net10.0\ClosetSquare.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\bin\Debug\net10.0\ClosetSquare.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\bin\Debug\net10.0\ClosetSquare.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\bin\Debug\net10.0\ClosetSquare.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\refint\ClosetSquare.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ClosetSquare.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\ClosetSquare\obj\Debug\net10.0\ref\ClosetSquare.dll

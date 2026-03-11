@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\bin\Debug\net10.0\InsertInString.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\bin\Debug\net10.0\InsertInString.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\bin\Debug\net10.0\InsertInString.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\bin\Debug\net10.0\InsertInString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\bin\Debug\net10.0\InsertInString.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\refint\InsertInString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\InsertInString.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\InsertInString\obj\Debug\net10.0\ref\InsertInString.dll

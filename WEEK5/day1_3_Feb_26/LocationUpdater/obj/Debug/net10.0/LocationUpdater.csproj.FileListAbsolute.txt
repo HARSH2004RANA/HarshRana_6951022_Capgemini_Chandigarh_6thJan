@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\bin\Debug\net10.0\LocationUpdater.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\bin\Debug\net10.0\LocationUpdater.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\bin\Debug\net10.0\LocationUpdater.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\bin\Debug\net10.0\LocationUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\bin\Debug\net10.0\LocationUpdater.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\refint\LocationUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\LocationUpdater.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\LocationUpdater\obj\Debug\net10.0\ref\LocationUpdater.dll

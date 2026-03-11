@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\bin\Debug\net10.0\NMinusSum.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\bin\Debug\net10.0\NMinusSum.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\bin\Debug\net10.0\NMinusSum.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\bin\Debug\net10.0\NMinusSum.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\bin\Debug\net10.0\NMinusSum.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\refint\NMinusSum.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\NMinusSum.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\NMinusSum\obj\Debug\net10.0\ref\NMinusSum.dll

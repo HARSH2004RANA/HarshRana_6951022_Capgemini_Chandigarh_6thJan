@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week4\\day2_28_jan_26\\patientlist\\patientbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|solutionrelative:patientbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week4\\day2_28_jan_26\\patientlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week4\\day2_28_jan_26\\patientlist\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB55A912-6E97-4994-BD91-FA5BDA653C6F}|PatientList.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientBO.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\PatientBO.cs",
+              "RelativeDocumentMoniker": "PatientBO.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\PatientBO.cs",
+              "RelativeToolTip": "PatientBO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:04:33.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:03:25.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK4\\day2_28_jan_26\\PatientList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:02:23.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

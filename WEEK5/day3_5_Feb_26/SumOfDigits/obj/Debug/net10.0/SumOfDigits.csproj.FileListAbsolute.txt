@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\bin\Debug\net10.0\SumOfDigits.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\bin\Debug\net10.0\SumOfDigits.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\bin\Debug\net10.0\SumOfDigits.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\bin\Debug\net10.0\SumOfDigits.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\bin\Debug\net10.0\SumOfDigits.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\refint\SumOfDigits.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\SumOfDigits.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\SumOfDigits\obj\Debug\net10.0\ref\SumOfDigits.dll

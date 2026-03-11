@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\bin\Debug\net10.0\SumOfCubeOfPrimes.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\bin\Debug\net10.0\SumOfCubeOfPrimes.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\bin\Debug\net10.0\SumOfCubeOfPrimes.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\bin\Debug\net10.0\SumOfCubeOfPrimes.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\bin\Debug\net10.0\SumOfCubeOfPrimes.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\refint\SumOfCubeOfPrimes.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\SumOfCubeOfPrimes.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SumOfCubeOfPrimes\obj\Debug\net10.0\ref\SumOfCubeOfPrimes.dll

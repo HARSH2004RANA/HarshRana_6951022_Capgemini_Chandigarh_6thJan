@@ -1,0 +1,4 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\Palindrome\obj\Debug\net10.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\Palindrome\obj\Debug\net10.0\Palindrome.csproj.CoreCompileInputs.cache

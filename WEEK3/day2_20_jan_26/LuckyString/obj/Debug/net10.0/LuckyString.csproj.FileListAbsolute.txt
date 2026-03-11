@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\bin\Debug\net10.0\LuckyString.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\bin\Debug\net10.0\LuckyString.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\bin\Debug\net10.0\LuckyString.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\bin\Debug\net10.0\LuckyString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\bin\Debug\net10.0\LuckyString.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\refint\LuckyString.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\LuckyString.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\LuckyString\obj\Debug\net10.0\ref\LuckyString.dll

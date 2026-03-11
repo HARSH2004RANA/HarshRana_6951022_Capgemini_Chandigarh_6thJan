@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\refint\ElectricityBill.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\ElectricityBill\obj\Debug\net10.0\ref\ElectricityBill.dll

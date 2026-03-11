@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\bin\Debug\net10.0\SortAndInsert.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\bin\Debug\net10.0\SortAndInsert.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\bin\Debug\net10.0\SortAndInsert.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\bin\Debug\net10.0\SortAndInsert.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\bin\Debug\net10.0\SortAndInsert.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\refint\SortAndInsert.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\SortAndInsert.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SortAndInsert\obj\Debug\net10.0\ref\SortAndInsert.dll

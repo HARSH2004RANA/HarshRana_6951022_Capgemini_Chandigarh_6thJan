@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\bin\Debug\net10.0\Palindrom.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\bin\Debug\net10.0\Palindrom.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\bin\Debug\net10.0\Palindrom.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\bin\Debug\net10.0\Palindrom.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\bin\Debug\net10.0\Palindrom.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\refint\Palindrom.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\Palindrom.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\Palindrom\obj\Debug\net10.0\ref\Palindrom.dll

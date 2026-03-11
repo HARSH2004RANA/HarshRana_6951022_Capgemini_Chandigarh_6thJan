@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\bin\Debug\net10.0\HalfAscHalfDescSort.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\bin\Debug\net10.0\HalfAscHalfDescSort.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\bin\Debug\net10.0\HalfAscHalfDescSort.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\bin\Debug\net10.0\HalfAscHalfDescSort.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\bin\Debug\net10.0\HalfAscHalfDescSort.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\refint\HalfAscHalfDescSort.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\HalfAscHalfDescSort.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\HalfAscHalfDescSort\obj\Debug\net10.0\ref\HalfAscHalfDescSort.dll

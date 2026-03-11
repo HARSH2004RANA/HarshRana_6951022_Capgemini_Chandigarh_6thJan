@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\bin\Debug\net10.0\SecondLargest.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\bin\Debug\net10.0\SecondLargest.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\bin\Debug\net10.0\SecondLargest.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\bin\Debug\net10.0\SecondLargest.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\bin\Debug\net10.0\SecondLargest.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\refint\SecondLargest.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\SecondLargest.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\SecondLargest\obj\Debug\net10.0\ref\SecondLargest.dll

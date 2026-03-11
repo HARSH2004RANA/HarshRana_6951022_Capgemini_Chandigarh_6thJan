@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\bin\Debug\net10.0\InvoiceUpdater.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\bin\Debug\net10.0\InvoiceUpdater.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\bin\Debug\net10.0\InvoiceUpdater.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\bin\Debug\net10.0\InvoiceUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\bin\Debug\net10.0\InvoiceUpdater.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\refint\InvoiceUpdater.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\InvoiceUpdater.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day1_3_Feb_26\InvoiceUpdater\obj\Debug\net10.0\ref\InvoiceUpdater.dll

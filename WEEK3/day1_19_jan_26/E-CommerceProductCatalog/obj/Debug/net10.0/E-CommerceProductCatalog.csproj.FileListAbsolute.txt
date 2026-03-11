@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\bin\Debug\net10.0\E-CommerceProductCatalog.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\bin\Debug\net10.0\E-CommerceProductCatalog.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\bin\Debug\net10.0\E-CommerceProductCatalog.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\bin\Debug\net10.0\E-CommerceProductCatalog.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\bin\Debug\net10.0\E-CommerceProductCatalog.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\refint\E-CommerceProductCatalog.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\E-CommerceProductCatalog.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day1_19_jan_26\E-CommerceProductCatalog\obj\Debug\net10.0\ref\E-CommerceProductCatalog.dll

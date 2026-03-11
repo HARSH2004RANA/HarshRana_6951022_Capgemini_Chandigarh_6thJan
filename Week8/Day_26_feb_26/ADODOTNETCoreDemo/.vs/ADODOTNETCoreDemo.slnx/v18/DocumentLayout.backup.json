@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week8\\Day_26_feb_26\\ADODOTNETCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week8\\day_26_feb_26\\adodotnetcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week8\\day_26_feb_26\\adodotnetcoredemo\\adodotnetcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|solutionrelative:adodotnetcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week8\\Day_26_feb_26\\ADODOTNETCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week8\\Day_26_feb_26\\ADODOTNETCoreDemo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwJcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:14:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADODOTNETCoreDemo.csproj",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week8\\Day_26_feb_26\\ADODOTNETCoreDemo\\ADODOTNETCoreDemo.csproj",
+              "RelativeDocumentMoniker": "ADODOTNETCoreDemo.csproj",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week8\\Day_26_feb_26\\ADODOTNETCoreDemo\\ADODOTNETCoreDemo.csproj",
+              "RelativeToolTip": "ADODOTNETCoreDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T10:27:57.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

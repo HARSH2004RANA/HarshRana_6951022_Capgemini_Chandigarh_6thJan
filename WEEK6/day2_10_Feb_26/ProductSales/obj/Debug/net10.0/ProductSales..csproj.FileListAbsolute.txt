@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\bin\Debug\net10.0\ProductSales..exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\bin\Debug\net10.0\ProductSales..deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\bin\Debug\net10.0\ProductSales..runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\bin\Debug\net10.0\ProductSales..dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\bin\Debug\net10.0\ProductSales..pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\refint\ProductSales..dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ProductSales..genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day2_10_Feb_26\ProductSales\obj\Debug\net10.0\ref\ProductSales..dll

@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\bin\Debug\net10.0\SearchCountInArray.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\bin\Debug\net10.0\SearchCountInArray.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\bin\Debug\net10.0\SearchCountInArray.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\bin\Debug\net10.0\SearchCountInArray.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\bin\Debug\net10.0\SearchCountInArray.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\refint\SearchCountInArray.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\SearchCountInArray.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day2_13_jan_26\SearchCountInArray\obj\Debug\net10.0\ref\SearchCountInArray.dll

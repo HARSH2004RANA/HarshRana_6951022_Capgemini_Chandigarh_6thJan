@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\temeperatureconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:temeperatureconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\handsonday5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:handsonday5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\handsonday5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:handsonday5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\multiple3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:multiple3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\productofdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:productofdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\primesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:primesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\perfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:perfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\multipleof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:multipleof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\duplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:duplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\cubeofprime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:cubeofprime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week1\\day5_10_jan_26\\handsonday5\\addelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9E21E4-C13F-4411-8E94-2BEFC177B407}|HandsOnDay5.csproj|solutionrelative:addelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrimeSum.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\PrimeSum.cs",
+              "RelativeDocumentMoniker": "PrimeSum.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\PrimeSum.cs",
+              "RelativeToolTip": "PrimeSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:48:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductOfDigits.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\ProductOfDigits.cs",
+              "RelativeDocumentMoniker": "ProductOfDigits.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\ProductOfDigits.cs",
+              "RelativeToolTip": "ProductOfDigits.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:40:41.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:30:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reverse.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Reverse.cs",
+              "RelativeDocumentMoniker": "Reverse.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Reverse.cs",
+              "RelativeToolTip": "Reverse.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:05:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "temeperatureConvert.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\temeperatureConvert.cs",
+              "RelativeDocumentMoniker": "temeperatureConvert.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\temeperatureConvert.cs",
+              "RelativeToolTip": "temeperatureConvert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:14:32.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandsOnDay5",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\HandsOnDay5.csproj",
+              "RelativeDocumentMoniker": "HandsOnDay5.csproj",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\HandsOnDay5.csproj",
+              "RelativeToolTip": "HandsOnDay5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T08:34:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multiple3.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Multiple3.cs",
+              "RelativeDocumentMoniker": "Multiple3.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Multiple3.cs",
+              "RelativeToolTip": "Multiple3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:32:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandsOnDay5",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\HandsOnDay5.csproj",
+              "RelativeDocumentMoniker": "HandsOnDay5.csproj",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\HandsOnDay5.csproj*",
+              "RelativeToolTip": "HandsOnDay5.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T08:52:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Perfect.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Perfect.cs",
+              "RelativeDocumentMoniker": "Perfect.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Perfect.cs",
+              "RelativeToolTip": "Perfect.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:18:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Multipleof3.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Multipleof3.cs",
+              "RelativeDocumentMoniker": "Multipleof3.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Multipleof3.cs",
+              "RelativeToolTip": "Multipleof3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:23:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Duplicate.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Duplicate.cs",
+              "RelativeDocumentMoniker": "Duplicate.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\Duplicate.cs",
+              "RelativeToolTip": "Duplicate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:11:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CubeOFPrime.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\CubeOFPrime.cs",
+              "RelativeDocumentMoniker": "CubeOFPrime.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\CubeOFPrime.cs",
+              "RelativeToolTip": "CubeOFPrime.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:22:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addElement.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\addElement.cs",
+              "RelativeDocumentMoniker": "addElement.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK1\\day5_10_jan_26\\HandsOnDay5\\addElement.cs",
+              "RelativeToolTip": "addElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:09:17.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

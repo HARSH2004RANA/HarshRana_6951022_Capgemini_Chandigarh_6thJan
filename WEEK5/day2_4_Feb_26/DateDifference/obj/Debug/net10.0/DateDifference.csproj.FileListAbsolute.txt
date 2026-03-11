@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\bin\Debug\net10.0\DateDifference.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\bin\Debug\net10.0\DateDifference.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\bin\Debug\net10.0\DateDifference.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\bin\Debug\net10.0\DateDifference.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\bin\Debug\net10.0\DateDifference.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\refint\DateDifference.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\DateDifference.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\DateDifference\obj\Debug\net10.0\ref\DateDifference.dll

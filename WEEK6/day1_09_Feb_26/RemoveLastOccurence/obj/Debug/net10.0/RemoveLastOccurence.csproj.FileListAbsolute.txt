@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\bin\Debug\net10.0\RemoveLastOccurence.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\refint\RemoveLastOccurence.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\RemoveLastOccurence.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\RemoveLastOccurence\obj\Debug\net10.0\ref\RemoveLastOccurence.dll

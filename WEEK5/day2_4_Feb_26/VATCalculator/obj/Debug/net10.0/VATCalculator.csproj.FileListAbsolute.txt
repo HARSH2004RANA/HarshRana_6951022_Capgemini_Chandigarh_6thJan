@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\bin\Debug\net10.0\VATCalculator.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\bin\Debug\net10.0\VATCalculator.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\bin\Debug\net10.0\VATCalculator.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\bin\Debug\net10.0\VATCalculator.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\bin\Debug\net10.0\VATCalculator.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\refint\VATCalculator.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\VATCalculator.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day2_4_Feb_26\VATCalculator\obj\Debug\net10.0\ref\VATCalculator.dll

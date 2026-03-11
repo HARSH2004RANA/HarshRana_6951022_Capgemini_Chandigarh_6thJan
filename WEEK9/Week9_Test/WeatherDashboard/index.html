@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Weather Dashboard</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right,#74ebd5,#ACB6E5);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.card{
+    background:white;
+    padding:30px;
+    width:350px;
+    border-radius:12px;
+    text-align:center;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+input{
+    padding:8px;
+    width:65%;
+}
+
+button{
+    padding:8px 12px;
+    cursor:pointer;
+}
+
+.weatherBox{
+    margin-top:20px;
+    padding:15px;
+    border-radius:8px;
+    font-size:18px;
+}
+
+.sunny{
+    background:#fff3b0;
+}
+
+.rainy{
+    background:#a7c7e7;
+}
+
+.cloudy{
+    background:#d3d3d3;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h2>Weather Today</h2>
+
+<input type="text" id="cityInput" placeholder="Enter city">
+
+<button onclick="checkWeather()">Check Weather</button>
+
+<div id="weatherDisplay" class="weatherBox"></div>
+
+</div>
+
+<script>
+
+function checkWeather(){
+
+let city = document.getElementById("cityInput").value;
+
+let weatherDisplay = document.getElementById("weatherDisplay");
+
+let weather;
+
+if(city.toLowerCase()=="paris"){
+    weather = {temp:"22°C", condition:"Sunny", class:"sunny"};
+}
+else if(city.toLowerCase()=="london"){
+    weather = {temp:"16°C", condition:"Rainy", class:"rainy"};
+}
+else if(city.toLowerCase()=="tokyo"){
+    weather = {temp:"20°C", condition:"Cloudy", class:"cloudy"};
+}
+else{
+    weather = {temp:"25°C", condition:"Sunny", class:"sunny"};
+}
+
+weatherDisplay.className = "weatherBox " + weather.class;
+
+weatherDisplay.innerHTML =
+"City: " + city + "<br>" +
+"Temperature: " + weather.temp + "<br>" +
+"Condition: " + weather.condition;
+
+}
+
+</script>
+
+</body>
+</html>

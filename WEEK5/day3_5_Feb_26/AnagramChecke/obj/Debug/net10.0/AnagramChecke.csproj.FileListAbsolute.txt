@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\bin\Debug\net10.0\AnagramChecke.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\bin\Debug\net10.0\AnagramChecke.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\bin\Debug\net10.0\AnagramChecke.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\bin\Debug\net10.0\AnagramChecke.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\bin\Debug\net10.0\AnagramChecke.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\refint\AnagramChecke.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\AnagramChecke.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK5\day3_5_Feb_26\AnagramChecke\obj\Debug\net10.0\ref\AnagramChecke.dll

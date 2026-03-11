@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\bin\Debug\net10.0\HandsOnDay1.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\bin\Debug\net10.0\HandsOnDay1.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\bin\Debug\net10.0\HandsOnDay1.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\bin\Debug\net10.0\HandsOnDay1.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\bin\Debug\net10.0\HandsOnDay1.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\refint\HandsOnDay1.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\HandsOnDay1.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day1_12_jan_26\HandsOnDay1\obj\Debug\net10.0\ref\HandsOnDay1.dll

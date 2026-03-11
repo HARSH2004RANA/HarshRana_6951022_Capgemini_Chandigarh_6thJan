@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\bin\Debug\net10.0\Delegates.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\bin\Debug\net10.0\Delegates.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\bin\Debug\net10.0\Delegates.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\bin\Debug\net10.0\Delegates.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\bin\Debug\net10.0\Delegates.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\refint\Delegates.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\Delegates.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK3\day2_20_jan_26\Delegates\obj\Debug\net10.0\ref\Delegates.dll

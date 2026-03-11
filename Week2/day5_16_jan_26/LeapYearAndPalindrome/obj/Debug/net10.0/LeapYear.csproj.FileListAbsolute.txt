@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\bin\Debug\net10.0\LeapYear.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\bin\Debug\net10.0\LeapYear.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\bin\Debug\net10.0\LeapYear.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\bin\Debug\net10.0\LeapYear.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\bin\Debug\net10.0\LeapYear.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\refint\LeapYear.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\LeapYear.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day5_16_jan_26\LeapYearAndPalindrome\obj\Debug\net10.0\ref\LeapYear.dll

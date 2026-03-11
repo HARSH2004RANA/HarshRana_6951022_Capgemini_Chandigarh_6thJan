@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\bin\Debug\net10.0\DeleteAlternative.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\bin\Debug\net10.0\DeleteAlternative.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\bin\Debug\net10.0\DeleteAlternative.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\bin\Debug\net10.0\DeleteAlternative.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\bin\Debug\net10.0\DeleteAlternative.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\refint\DeleteAlternative.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\DeleteAlternative.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\DeleteAlternative\obj\Debug\net10.0\ref\DeleteAlternative.dll

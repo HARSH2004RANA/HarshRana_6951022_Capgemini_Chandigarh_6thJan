@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\refint\BinaryToDecimal.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day3_14_jan_26\BinaryToDecimal\obj\Debug\net10.0\ref\BinaryToDecimal.dll

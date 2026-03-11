@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\bin\Debug\net10.0\Serialization.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\bin\Debug\net10.0\Serialization.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\bin\Debug\net10.0\Serialization.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\bin\Debug\net10.0\Serialization.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\bin\Debug\net10.0\Serialization.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\refint\Serialization.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\Serialization.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day3_29_jan_26\Serialization\obj\Debug\net10.0\ref\Serialization.dll

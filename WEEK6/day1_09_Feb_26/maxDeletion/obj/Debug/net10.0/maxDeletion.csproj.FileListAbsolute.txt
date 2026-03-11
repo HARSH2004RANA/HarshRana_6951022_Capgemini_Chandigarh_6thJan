@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\bin\Debug\net10.0\maxDeletion.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\bin\Debug\net10.0\maxDeletion.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\bin\Debug\net10.0\maxDeletion.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\bin\Debug\net10.0\maxDeletion.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\bin\Debug\net10.0\maxDeletion.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\refint\maxDeletion.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\maxDeletion.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK6\day1_09_Feb_26\maxDeletion\obj\Debug\net10.0\ref\maxDeletion.dll

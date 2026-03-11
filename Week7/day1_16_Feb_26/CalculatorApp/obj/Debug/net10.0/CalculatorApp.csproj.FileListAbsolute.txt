@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week7\day1_16_Feb_26\CalculatorApp\obj\Debug\net10.0\ref\CalculatorApp.dll

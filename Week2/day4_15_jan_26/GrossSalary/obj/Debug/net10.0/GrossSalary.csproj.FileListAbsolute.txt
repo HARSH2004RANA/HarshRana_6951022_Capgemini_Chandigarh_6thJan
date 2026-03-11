@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\bin\Debug\net10.0\GrossSalary.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\bin\Debug\net10.0\GrossSalary.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\bin\Debug\net10.0\GrossSalary.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\bin\Debug\net10.0\GrossSalary.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\bin\Debug\net10.0\GrossSalary.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\refint\GrossSalary.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\GrossSalary.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week2\day4_15_jan_26\GrossSalary\obj\Debug\net10.0\ref\GrossSalary.dll

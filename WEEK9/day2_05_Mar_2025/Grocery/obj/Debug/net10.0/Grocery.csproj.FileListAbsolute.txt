@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\bin\Debug\net10.0\Grocery.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\bin\Debug\net10.0\Grocery.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\bin\Debug\net10.0\Grocery.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\bin\Debug\net10.0\Grocery.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\bin\Debug\net10.0\Grocery.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\refint\Grocery.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\Grocery.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK9\day2_05_Mar_2025\Grocery\obj\Debug\net10.0\ref\Grocery.dll

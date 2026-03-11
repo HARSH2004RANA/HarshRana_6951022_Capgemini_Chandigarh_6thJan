@@ -1,0 +1,14 @@
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\bin\Debug\net10.0\Studentgrading.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\bin\Debug\net10.0\Studentgrading.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\bin\Debug\net10.0\Studentgrading.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\bin\Debug\net10.0\Studentgrading.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\bin\Debug\net10.0\Studentgrading.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\refint\Studentgrading.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\Studentgrading.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK4\day1_27_jan_26\Studentgrading\obj\Debug\net10.0\ref\Studentgrading.dll

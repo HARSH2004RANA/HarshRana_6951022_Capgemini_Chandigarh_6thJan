@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>To-Do List App</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:400px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+h2{
+    text-align:center;
+}
+
+input{
+    width:70%;
+    padding:8px;
+}
+
+button{
+    padding:8px 12px;
+    cursor:pointer;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+    margin-top:20px;
+}
+
+li{
+    padding:10px;
+    border:1px solid #ddd;
+    margin-bottom:10px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+li:hover{
+    background:#f1f1f1;
+}
+
+.done{
+    text-decoration: line-through;
+    color:gray;
+}
+
+.reset{
+    margin-top:10px;
+    width:100%;
+    background:#ff4d4d;
+    color:white;
+    border:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>My To-Do List</h2>
+
+<input type="text" id="taskInput" placeholder="Enter a task">
+
+<button onclick="addTask()">Add</button>
+
+<ul id="taskList"></ul>
+
+<button class="reset" onclick="clearTasks()">Clear All Tasks</button>
+
+</div>
+
+<script>
+
+function addTask(){
+
+let input = document.getElementById("taskInput");
+
+let taskText = input.value;
+
+if(taskText === "") return;
+
+let li = document.createElement("li");
+
+li.textContent = taskText;
+
+li.onclick = function(){
+    li.classList.toggle("done");
+}
+
+document.getElementById("taskList").appendChild(li);
+
+input.value = "";
+
+}
+
+function clearTasks(){
+
+document.getElementById("taskList").innerHTML = "";
+
+}
+
+</script>
+
+</body>
+</html>
